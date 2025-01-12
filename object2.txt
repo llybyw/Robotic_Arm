@@ -1,0 +1,3 @@
+Push the table and the ball to their positions.
+1
+assets/simplified_objects/sphere2red.urdf

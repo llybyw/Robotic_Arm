@@ -1,0 +1,5 @@
+Push the table and the ball to their positions.
+1 2 3
+assets/simplified_objects/cube_small.urdf
+assets/simplified_objects/cube_small.urdf
+assets/simplified_objects/cube2.urdf
